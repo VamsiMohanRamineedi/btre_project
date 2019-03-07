@@ -15,7 +15,7 @@ The goal of this project is to develop a responsive website for a real-estate co
 
 ### Few things to try:
 **As a website user:**
-* Visit [website](http://206.189.206.109/) in your browser to see the front-end of the website.
+* Visit [website](http://206.189.206.109/) in your browser to see the front-end.
 *	Try making registration and login mistakes.
 *	Register as a new user and login.
 *	Try navigating through tabs in the navigation bar.
