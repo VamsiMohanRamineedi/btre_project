@@ -25,6 +25,6 @@ The goal of this project is to develop a responsive website for a real-estate co
 *	Select ‘Make an inquiry’ from a specific listing.
 *	Check user dashboard for inquiries made.
 
-**The app also has a admin functionality which will be provided only to the client, so I unable to post the admin details here. Try the above functionalities in mobile too!**
+**The app also has admin functionality which will be provided only to the client, so I unable to post the admin details here. Try the above functionalities in mobile too!**
 
 
