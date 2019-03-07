@@ -27,4 +27,11 @@ The goal of this project is to develop a responsive website for a real-estate co
 
 **The app also has admin functionality which will be provided only to the client, so I unable to post the admin details here. Try the above functionalities in mobile too!**
 
+### Technologies and tools Used:
+* Python, Django.
+* HTML, CSS, JavaScript, Bootstrap.
+* PostgreSQL, pgAdmin for database.
+* Git, GitHub.
+* VS Code.
+* DigitalOcean, Ubuntu, Gunicorn, Nginx for deployment.
 
